@@ -41,7 +41,13 @@ pip install -r requirements.txt
 
 ## Usage
 
+To start the your environment file, run the following command:
+```sh
+cd your-environment-name\Scripts\activate
+```
+
 To start the voice-activated personal assistant, run the following command:
+
 ```sh
 python main.py
 ```
