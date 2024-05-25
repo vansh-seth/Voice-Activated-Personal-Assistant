@@ -59,17 +59,10 @@ Once started, the assistant will be ready to accept your voice commands.
 
 Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any questions or suggestions, please reach out to [your-email@example.com].
+For any questions or suggestions, please reach out to [sethvansh2004@gmail.com].
 
 ---
 
 Thank you for using the Voice-Activated Personal Assistant! We hope it makes your life easier and more productive.
-```
-
-Feel free to customize the content further as per your project's specific details and requirements.
